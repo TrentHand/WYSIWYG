@@ -1,0 +1,27 @@
+.divObjects {
+	display: block;
+	height: 400px;
+	padding: 2%;
+	/*you have to set the width when using float*/
+	width: 20%;
+	/*float:left will make the objects line up side by side if the width is set;*/
+	float: left;
+}
+
+.pics {
+	height: 150px;
+	width: 150px;
+	text-align: center;
+}
+
+.yellowBack {
+	background-color: yellow;
+}
+
+.blueBack {
+	background-color: lightblue;
+}
+
+.dotTheBox {
+	border: 2px dotted green;
+}
